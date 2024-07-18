@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body {
+    background: #ffffff;
+    text-align: center;
+    color: #000f08;
+    margin-right: 0;
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+  }
+    
+  h2 {
+    font-weight: 700;
+    font-size: 2.5em;
+  }
+  
+  h3 {
+    font-size: 2em;
+  }
+  
+  h4 {
+    font-size: 1.75em;
+  }
+  
+h4, h5 {
+    font-weight: 400;
+  }
+  .titu{
+    font-weight:200;
+  }
+  
+  h5 {
+    font-size: 1.25em;
+  }
+  
+  nav{
+    text-align: left;
+    padding: 1.25rem 4rem;
+    position: fixed;
+    width: 100vw;
+  }
+  
+  nav ul {
+  list-style-type: none;
+  }
+  
+  nav ul li{
+    display: inline-block;
+    margin: 0 1em;
+    vertical-align: middle;
+  }
+  
+  .icon{
+    width: 2rem;
+  }
+  
+  .icon svg {
+    fill: #ffffff
+  }
+    
+  .fondo {
+    background: #000f08;
+    color: #ffffff;
+  }
+  
+  .fondo a {
+    color: #ffffff;
+    text-decoration: none;
+  
+  }
+
+  .herosec {
+    text-align:right;
+    background-image: url('../img/bg-hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0.125em 0.188em 0.125em #707070;
+    padding: 100px 50px;
+    height: 550px;
+  }
+
+  .herosec h1{
+    margin-top: 90px;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-bottom: 0.375em;
+  }
+ 
+  .donde{
+    
+    text-align: center;
+    margin-top: 100px;
+    height: 500px;
+  }
+
+  .donde h3{
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  .margenes {
+    margin-top: 1em;
+  }
+  .bloquecolor {
+    text-align: left;
+    background: #a4452c;
+    color: #ffffff;
+    padding: 50px;
+    white-space: nowrap;
+  }
+  .ubica {
+    width: 75%;
+    margin: 0 auto;
+    padding-left:50px;
+    
+  }
+
+  .rostro{
+    width: 25%;
+    vertical-align: middle;
+    margin-left: 50px;
+  }
+  .colortex{
+    display: inline-block;
+    width: 70%;
+    vertical-align: middle;
+    margin-left: 5%;
+    white-space: normal;
+      
+  }
+.cajaeve{
+    text-align: center;
+    margin-top: 30px;
+    height: 500px;
+}
+   .even {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+  }
+  .tileven {
+    margin-top: 90px;
+    padding-bottom:  70px;
+    margin-bottom: 1em;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+   
+  }
+.imgeve{
+    width: 70%;
+
+}
+  
+  .h3color{
+    color: black;
+
+  }
+  footer {
+    padding: 50px;
+    margin-top: 70px;
+    text-align: center;
+  }
+
+  footer i {
+    margin: 0 0.25em 0.5em 0.25em;
+  }
+ 
